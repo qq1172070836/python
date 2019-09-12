@@ -16,7 +16,7 @@ String
     r''
     \n
     + * 索引切片 ord('a')
-    方法：
+    方法：41626
         增
             + %s fommat join
         删
@@ -24,13 +24,13 @@ String
         改
             upper lower capi... title strip lstrip rstrip split
         查
-            count index find
+            count index
         判断
             isdigit isalpha isupper islower startswith endswith
 List
     []
     len() max() min() + * (3 in [1,2,3]) 切片 迭代
-    方法：
+    方法：44122
         增
             + append insert extend
         删
@@ -38,7 +38,7 @@ List
         改
             索引赋值
         查
-            index count
+            count index
         排序反转
             sort reverse
 Tuple
