@@ -1,11 +1,4 @@
-all_step = 0
+from functools import reduce
 
-def go(step):
-    global all_step
-    n = all_step + step
-    all_step = n
-    return all_step
-
-print(go(2))
-print(go(3))
-print(go(5))
+list_x = [1,2,3,4,5,6]
+reduce(lambda x, y: x+y, list_x)
