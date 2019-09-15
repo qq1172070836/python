@@ -1,6 +1,6 @@
 # String
 str1 = r'hello world\n'
-str2 = " python "
+str2 = " Python "
 num = ord('a')
 print(str1+str2, str2*3, str1[0:-1:2], num)
 
@@ -27,3 +27,11 @@ print(str9)
 # 查
 print(str1.index('l', 3, -1))
 print(str1.count('l', 3, -1))
+
+# 判断
+print(str1.isdigit())
+print(str1.isalpha())
+print(str1.isupper())
+print(str1.islower())
+print(str2.startswith(' '))
+print(str2.endswith(' '))
