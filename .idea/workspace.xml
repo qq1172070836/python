@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da57bc3a-1edf-478b-b8fc-2c43896ff662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/笔记/python杂记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/1/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/6_函数-高级用法.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/6_函数-高级用法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/python高级用法.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/1/number_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/1/string_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/1/tuple_list_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习/1/demo.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,10 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/练习/1/demo.py">
+        <entry file="file://$PROJECT_DIR$/练习/1/tuple_list_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -78,6 +76,9 @@
         <option value="$PROJECT_DIR$/笔记/python高级用法.md" />
         <option value="$PROJECT_DIR$/笔记/python杂记.md" />
         <option value="$PROJECT_DIR$/练习/1/demo.py" />
+        <option value="$PROJECT_DIR$/练习/1/string_test.py" />
+        <option value="$PROJECT_DIR$/练习/1/number_test.py" />
+        <option value="$PROJECT_DIR$/练习/1/tuple_list_test.py" />
       </list>
     </option>
   </component>
@@ -95,6 +96,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,11 +104,21 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,7 +184,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/1/demo.py" />
+      <option name="SCRIPT_NAME" value="D:\python\python全栈\python\练习\1\tuple_list_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,17 +287,18 @@
       <workItem from="1568413179598" duration="17403000" />
       <workItem from="1568530911536" duration="8134000" />
       <workItem from="1568541798241" duration="2687000" />
+      <workItem from="1568544515463" duration="355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41165000" />
+    <option name="totallyTimeSpent" value="41520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18229954" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18532526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -453,10 +466,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/练习/1/demo.py">
+    <entry file="file://$PROJECT_DIR$/练习/1/string_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+        <state relative-caret-position="411">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/1/number_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/1/tuple_list_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
