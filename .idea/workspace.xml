@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da57bc3a-1edf-478b-b8fc-2c43896ff662" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/笔记/1_数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/1_数据类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/2_运算符.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/2_运算符.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/3_变量.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/3_变量.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/4_控制流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/4_控制流程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/5_函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/5_函数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/6_函数-高级用法.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/6_函数-高级用法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/python杂记.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/python杂记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/枚举类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/枚举类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,24 +12,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/笔记/python杂记.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="4" selection-start-column="4" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/笔记/枚举类型.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor>
-                <caret column="5" selection-start-column="5" selection-end-column="5" />
+              <first_editor relative-caret-position="254">
+                <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -83,7 +64,6 @@
         <option value="$PROJECT_DIR$/练习/1/变量.txt" />
         <option value="$PROJECT_DIR$/练习/1/控制流程.txt" />
         <option value="$PROJECT_DIR$/练习/1/demo.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/笔记/1_数据类型.md" />
         <option value="$PROJECT_DIR$/笔记/2_运算符.md" />
         <option value="$PROJECT_DIR$/笔记/3_变量.md" />
@@ -92,6 +72,7 @@
         <option value="$PROJECT_DIR$/笔记/6_函数-高级用法.md" />
         <option value="$PROJECT_DIR$/笔记/python杂记.md" />
         <option value="$PROJECT_DIR$/笔记/枚举类型.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -115,11 +96,6 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="笔记" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -295,12 +271,12 @@
       <workItem from="1568530911536" duration="8134000" />
       <workItem from="1568541798241" duration="2687000" />
       <workItem from="1568544515463" duration="984000" />
-      <workItem from="1568588368073" duration="3998000" />
+      <workItem from="1568588368073" duration="4271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46147000" />
+    <option name="totallyTimeSpent" value="46420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -453,21 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="3" selection-start-column="3" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/笔记/1_数据类型.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
@@ -481,7 +442,7 @@
     <entry file="file://$PROJECT_DIR$/笔记/2_运算符.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
-          <first_editor relative-caret-position="475">
+          <first_editor relative-caret-position="254">
             <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           </first_editor>
           <second_editor />
@@ -511,7 +472,7 @@
     <entry file="file://$PROJECT_DIR$/笔记/5_函数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
-          <first_editor relative-caret-position="315">
+          <first_editor relative-caret-position="254">
             <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
           </first_editor>
           <second_editor />
@@ -543,6 +504,21 @@
         <state split_layout="SECOND">
           <first_editor>
             <caret column="5" selection-start-column="5" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="254">
+            <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
