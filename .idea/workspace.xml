@@ -2,110 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da57bc3a-1edf-478b-b8fc-2c43896ff662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/.idea/正方体3D轮播图.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/images/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/images/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/images/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/images/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/images/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/3D_slideshow/打开.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/.idea/佩奇.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/build/佩奇/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/build/佩奇/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/build/佩奇/PKG-00.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/build/佩奇/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/build/佩奇/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/build/佩奇/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/build/佩奇/Tree-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/build/佩奇/Tree-01.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/build/佩奇/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/build/佩奇/warn-佩奇.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/build/佩奇/xref-佩奇.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/build/佩奇/佩奇.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/dist/佩奇.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/佩奇.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/drawing_page/佩奇.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/.idea/friends_ad-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/111.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/create_pics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/head/001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/head/002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/head/003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/head/004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/head/005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/head/006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/head/007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/head/008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/head/009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/pre/SimSun.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/pre/arial.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/pre/haha.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/pre/paper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/friends_ad/pre/tedxpy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/meizitu/meizitu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/pdf_excel/1348077557.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/pdf_excel/data.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/pdf_excel/pdf_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/.idea/文字云.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/222.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/pip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/test.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/文字云.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/word_cloud/笔记.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/1_数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/1_数据类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/2_运算符.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/2_运算符.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/3_变量.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/3_变量.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/4_控制流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/4_控制流程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/5_函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/5_函数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/6_函数-高级用法.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/6_函数-高级用法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/python杂记.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/python杂记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/枚举类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/枚举类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法题/twosum.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/twosum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习/1/copy_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/1/copy_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习/1/number_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/1/number_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习/1/set_dict_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/1/set_dict_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习/1/string_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/1/string_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习/1/tuple_list_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/1/tuple_list_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习/1/变量.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/1/变量.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习/1/控制流程.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/1/控制流程.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习/1/运算符.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/1/运算符.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="110">
-                <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <first_editor relative-caret-position="450">
+                <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -381,12 +278,12 @@
       <workItem from="1568544515463" duration="984000" />
       <workItem from="1568588368073" duration="5979000" />
       <workItem from="1568933940303" duration="1113000" />
-      <workItem from="1569666143579" duration="2128000" />
+      <workItem from="1569666143579" duration="2408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51369000" />
+    <option name="totallyTimeSpent" value="51649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -622,8 +519,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <first_editor relative-caret-position="450">
+            <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
